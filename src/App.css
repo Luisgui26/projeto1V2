@@ -35,3 +35,28 @@ footer{
     padding: 20px;
     text-align: center;
 }
+
+.texto-sobre{
+    padding: 20px;
+}
+
+.img-sobre{
+    height: 400px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.texto-produtos{
+    padding: 25px;
+}
+
+.texto-produtos h1{
+    margin-bottom: 15px;
+}
+
+.img-produtos{
+    height: 100px;
+    margin-left: 20px;
+}

@@ -3,7 +3,7 @@ import {} from 'react';
 const Footer = () => {
   return (
     <footer>
-      <p>&copy; {new Date().getFullYear()} Sua Empresa. Todos os direitos reservados.</p>
+      <p>Telefone: 1234-5678 | Email: umemail@gmail.com</p>
     </footer>
   );
 }
